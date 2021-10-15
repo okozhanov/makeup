@@ -1,0 +1,50 @@
+#basket_count_container {
+    height: 100px;
+    font-size: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 50px;
+
+}
+
+#basket_button {
+    cursor: pointer;
+    /*border: 2px solid #e3379c;*/
+    background: #e3379c;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    z-index: 4;
+    right: 25px;
+    top: 15px;
+}
+
+#basket_count {
+    font-weight: bold;
+    color: #fff;
+}
+
+.products_main {
+    margin-top: 70px;
+    display: flex;
+}
+
+.products_sorter_filter {
+    background: #929292;
+    color: white;
+    width: 20%;
+}
+
+.products {
+    background: #e8ecf4;
+    width: 80%;
+}
+
+.products_catalog {
+    display: flex;
+    flex-wrap: wrap;
+}

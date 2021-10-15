@@ -1,0 +1,15 @@
+.sort_label {
+    background: #636363;
+    padding: 15px;
+    color: #fff;
+    margin-top: 0;
+    font-size: 22px;
+}
+
+.sort_input {
+    margin: 10px;
+}
+
+.sort_input_label {
+    font-size: 18px;
+}

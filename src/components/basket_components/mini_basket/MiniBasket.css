@@ -1,0 +1,25 @@
+.mini_basket {
+    font-size: 18px;
+    overflow-y: scroll;
+    max-height: 500px;
+}
+
+#basket_image {
+    font-size: 1.5em;
+}
+
+.clear_basket {
+    font-size: 18px;
+    padding: 7px;
+    border: 3px solid #e3379c;
+    box-sizing: border-box;
+    background: #fff;
+    margin-top: 50px;
+    transition: 400ms;
+    cursor: pointer;
+}
+
+.clear_basket:hover {
+    background: #e3379c;
+    color: #fff;
+}

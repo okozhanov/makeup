@@ -1,0 +1,25 @@
+.basket_item {
+    display: flex;
+    border-bottom: 3px solid #e3379c;
+    margin-bottom: 10px;
+}
+
+.basket_item_price {
+    width: 23%;
+}
+
+.basket_item_name {
+    width: 67%;
+    padding-right: 10px;
+    box-sizing: border-box;
+}
+
+.basket_item_delete {
+    width: 5%;
+    cursor: pointer;
+    transition: 400ms;
+}
+
+.basket_item_delete:hover {
+    color: #ff0000;
+}

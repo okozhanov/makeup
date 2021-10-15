@@ -1,0 +1,14 @@
+.filter_label {
+    background: #636363;
+    padding: 15px;
+    color: #fff;
+    font-size: 22px;
+}
+
+.filter_input {
+    margin: 10px;
+}
+
+.filter_input_label {
+    font-size: 18px;
+}
